@@ -1,24 +1,4 @@
-# README
+# Re-Former
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is a project from [The Odin Project](https://www.theodinproject.com), where I try to learn how to make proper forms with Ruby on Rails.
+Check them out for a great web development curriculum.
